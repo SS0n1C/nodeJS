@@ -1,0 +1,11 @@
+{
+  "name": "nodej",
+  "version": "0.0.1",
+  "description": "my first Node project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "VTL",
+  "license": "ISC"
+}
